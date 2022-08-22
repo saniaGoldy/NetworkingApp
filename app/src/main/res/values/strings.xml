@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkingApp</string>
+    <string name="makerequest">MakeRequest</string>
+    <string name="username">UserName</string>
+</resources>
