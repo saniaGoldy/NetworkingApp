@@ -18,7 +18,9 @@ class MainViewModel : ViewModel(), MainRepository.ProcessRequestResult {
         repository.makeUsersAPIQuery()
     }
 
-    override fun process(result: Result<RandomUserAPIResponse>) {
+    override fun process(
+        result: Result<RandomUserAPIResponse>
+    ) {
         _userAPIResponseResult.value = result
     }
 }
