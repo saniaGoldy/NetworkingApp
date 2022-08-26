@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Sania/Projects/AndroidStudio/NetworkingApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Sania/Projects/AndroidStudio/NetworkingApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1035" />
+        <entry key="..\:/Sania/Projects/AndroidStudio/NetworkingApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Sania/Projects/AndroidStudio/NetworkingApp/app/src/main/res/layout/user_names_list_item.xml" value="0.25416666666666665" />
       </map>
     </option>
